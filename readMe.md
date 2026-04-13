@@ -1,1 +1,1 @@
-This is a research project undertaken under Dr Ramesh Kumar Bhukya and has been published in the IEEE International Conference on Innovation in Computing and Engineering 2025. 
+This is a research project undertaken under Dr Ramesh Kumar Bhukya and has been published in the IEEE International Conference on Innovation in Computing and Engineering 2025. It is an ML-based exploration of the NonSpeech7K dataset, benchmarking various traditional and ensemble models.   
